@@ -42,7 +42,6 @@ Based on our Leave-One-Group-Out ablation study:
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/redrob.git
 cd redrob
 pip install -r requirements.txt
 ```
